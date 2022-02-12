@@ -26,7 +26,7 @@ body {
 .cell {
   width: var(--cell-size);
   height: var(--cell-size);
-  border: 1px solid black;
+  border: 3px solid #0000006e;
   display: flex;
   justify-content: center;
   align-items: center;
